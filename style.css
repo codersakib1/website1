@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-area{
+    display: flex;
+    margin-bottom: 150px;  
+}
+.divided-area{
+    width: 50%;
+    margin-left: 10%;
+}
+.divided-area img{
+    max-width: 70%;
+}
+.top-text{
+    margin-top: 3%;
+}
+
+.orange-color{
+    color: orange;
+}
+.border-lft{
+    font-size: 70px;
+    font-weight: 800;
+    border-left: 5px solid rgb(221, 89, 89);
+    margin-bottom:15px;
+    font-family:  'Roboto Slab', serif;
+}
+.top-area p{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(0, 0, 0, 0.621);
+    margin-bottom: 25px;
+}
+.click-link{
+    text-decoration: none;
+    background-color: rgb(226, 81, 81) ;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 10px;
+}
+.top-down{
+    font-size: 20px;   
+    margin-top:40px;
+    color: rgba(0, 0, 0, 0.632);
+}
+.mission-heading{
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    margin-bottom: 50px;
+}
+.mission-22{
+    display: flex;
+    margin-bottom: 150px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.mission-item{
+    width: 33%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 5px solid #fff;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px
+}
+.mission img{
+    max-width: 50%;   
+}
+.vission img{
+    max-width: 50%;
+}
+.goals img{
+    max-width: 50%;
+}
+.mission-item h3{
+    font-size: 25px;
+    margin-left: 5%;
+}
+.mission-item p{
+    margin-left: 5%;
+    font-size: 20px;
+}
+.mission{
+    background-color: rgb(196, 192, 176);
+}
+.vission{
+    background-color: rgb(135, 227, 187);
+}
+.goals{
+    background-color: rgb(241, 200, 147);
+}
+.part3{
+    display: flex;
+    margin-bottom: 50px;
+}
+.widharea{
+    width: 50%;
+}
+.widharea img{
+    max-width: 60%;
+    margin-left: 20%;
+}
+
+.widharea h2{
+    font-size:40px;
+    margin-top: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.widharea p{
+    font-size: 25px;
+    margin-right: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;   
+    color: rgba(0, 0, 0, 0.73);
+}
+.part4{
+    display: flex;
+    margin-bottom: 50px;
+}
+.equal{
+    width: 50%;
+    margin: 2%;
+    padding: 4%;
+}
+.equal h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.equal p{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.664);
+    margin-bottom: 40px;
+}
+.equal img{
+    max-width: 70%;
+    
+}
+.shape{
+    background-image: url(./images/shapes/shape-1.png);
+    background-position:bottom;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position-x:70%;
+  
+}
+.corona{
+    text-align: center;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.corona-sec{
+    display: flex;
+}
+.cor-width{
+    width: 50%;
+}
+.corona-sec img{
+    max-width: 50%;
+    margin-left: 150px;
+}
+.cor-width h2{
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  margin-bottom: 30px;
+}
+.cor-width p{
+    font-size: 25px;
+    font-family:  sans-serif;
+    color: rgba(0, 0, 0, 0.555);
+    margin-right: 20px;
+    padding-right: 40px;
+   
+}
+.mark{
+    margin-top: 7%;
+}
+footer{
+    text-align: center;
+    background-color: #000;
+    
+}
+footer h1{
+    color: #fff;
+    font-size: 40px;
+    font-family: cursive;
+    padding-top: 25px;
+}
+.red{
+    color: rgb(240, 50, 50);
+}
+footer p{
+    color: rgb(102, 101, 101);
+    padding-bottom:  25px;
+    padding-top: 20px;
+    
+}
